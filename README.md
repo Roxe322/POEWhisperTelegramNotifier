@@ -27,5 +27,8 @@ You should see some info in terminal / cmd / powershell after running script.
 
 ## How it looks like
 A bit more readable now, screenshot is from the old version.
+<details> 
+  <summary>Screenshot</summary>
+   ![Example](images/demo.png )
+</details>
 
-![Example](images/demo.png | width="60%" height="50%")
