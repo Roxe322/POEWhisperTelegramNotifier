@@ -14,4 +14,10 @@ Open `config.py` file with any text editor and change `LOG_PATH` and `TELEGRAM_B
 
 
 ## Run
-Run `python3 main.py` in terminal / cmd / powershell
+Open  terminal / cmd / powershell in the folder with the script and type `python3 main.py`. If you have any problems with running script, try to run it with `python` command instead of `python3`. 
+In Windows you can just double-click on `main.py` file.
+
+
+## Possible problems
+Double-check your `LOG_PATH` and `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID` in `config.py` file. 
+You should see some info in terminal / cmd / powershell after running script. 

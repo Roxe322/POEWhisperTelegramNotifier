@@ -42,12 +42,9 @@ def send_to_telegram(message):
     message_text = prepare_telegram_message(message)
     data = make_data_to_send(message_text)
     req = request.Request(API_URL, data=data, method="POST")
-    print(API_URL)
     req.add_header("Content-Type", "application/json")
-    print(data)
     try:
-        with request.urlopen(req) as f:
-            print(f.read().decode("utf-8"))
+        request.urlopen(req)
     except Exception as e:
         print(e)
 
