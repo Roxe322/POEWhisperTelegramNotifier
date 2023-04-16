@@ -23,3 +23,9 @@ In Windows you can just double-click on `main.py` file.
 ## Possible problems
 Double-check your `LOG_PATH` and `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID` in `config.py` file. 
 You should see some info in terminal / cmd / powershell after running script. 
+
+
+## How it looks like
+A bit more readable now, screenshot is from the old version.
+
+![Example](images/demo.png)
