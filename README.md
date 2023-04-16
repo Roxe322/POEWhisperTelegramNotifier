@@ -28,4 +28,4 @@ You should see some info in terminal / cmd / powershell after running script.
 ## How it looks like
 A bit more readable now, screenshot is from the old version.
 
-![Example](images/demo.png)
+![Example](images/demo.png =477x834)
