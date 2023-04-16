@@ -29,6 +29,6 @@ You should see some info in terminal / cmd / powershell after running script.
 A bit more readable now, screenshot is from the old version.
 <details> 
   <summary>Screenshot</summary>
-   ![Example](images/demo.png )
+   ![](images/demo.png )
 </details>
 
