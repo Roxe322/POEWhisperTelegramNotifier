@@ -1,4 +1,4 @@
-# POEWhisperTelegramNotifier
+# POE Whisper Telegram Notifier
 Small script which checks your Client.txt log file and sending message to your telegram when someone whispers you.
 
 ## Requirements
